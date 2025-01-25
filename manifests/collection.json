@@ -1,0 +1,15 @@
+{
+  "id" : "https://hanjiang96.github.io/new_samples/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in hanjiang96/new_samples project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://hanjiang96.github.io/new_samples/manifests/manifest.json",
+    "label" : {
+      "en" : [ "Test Manifest" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
