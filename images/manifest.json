@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hanjiang96.github.io/new_samples/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in hanjiang96/new_samples project"
+        ]
+    },
+    "items": []
+}
